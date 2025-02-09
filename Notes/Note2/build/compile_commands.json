@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/User/Desktop/Module32/Notes/Note1/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/Note1.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\Note1.dir\\main.cpp.obj -c C:\\Users\\User\\Desktop\\Module32\\Notes\\Note1\\main.cpp",
+  "file": "C:/Users/User/Desktop/Module32/Notes/Note1/main.cpp",
+  "output": "CMakeFiles/Note1.dir/main.cpp.obj"
+}
+]

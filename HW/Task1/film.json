@@ -1,0 +1,46 @@
+{
+  "title": "John Wick: Chapter 4",
+  "release_date": "2023-03-24",
+  "country": "USA",
+  "studio": "Lionsgate",
+  "screenwriter": "Shay Hatten, Michael F. Stewart, Derek Kolstad",
+  "director": "Chad Stahelski",
+  "producer": "Basil Iwanyk, Chad Stahelski, Erica Lee",
+  "genre": ["Action", "Thriller", "Crime"],
+  "duration": "169 minutes",
+  "rating": {
+    "imdb": 7.9,
+    "kinopoisk": 8.1
+  },
+  "description": "After John Wick declares war on the High Table, he must face new enemies and old allies to survive.",
+  "cast": [
+    {
+      "character": "John Wick",
+      "actor": "Keanu Reeves"
+    },
+    {
+      "character": "Caine",
+      "actor": "Donnie Yen"
+    },
+    {
+      "character": "The Marquis",
+      "actor": "Bill Skarsgård"
+    },
+    {
+      "character": "Charon",
+      "actor": "Lance Reddick"
+    },
+    {
+      "character": "Sofia",
+      "actor": "Halle Berry"
+    },
+    {
+      "character": "Baba Yaga",
+      "actor": "Laurence Fishburne"
+    },
+    {
+      "character": "Kazuya",
+      "actor": "Scott Adkins"
+    }
+  ]
+}

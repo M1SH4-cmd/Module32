@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Note1.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\Note1.dir/objects.a @CMakeFiles\Note1.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Note1.dir/objects.a -Wl,--no-whole-archive -o Note1.exe -Wl,--out-implib,libNote1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Note1.dir\linkLibs.rsp
