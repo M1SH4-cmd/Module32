@@ -1,0 +1,147 @@
+{
+  "Inception": {
+    "release_date": "2010-07-16",
+    "country": "USA",
+    "studio": "Warner Bros.",
+    "screenwriter": "Christopher Nolan",
+    "director": "Christopher Nolan",
+    "producer": "Emma Thomas",
+    "genre": ["Science Fiction", "Action", "Adventure"],
+    "duration": "148 minutes",
+    "rating": {
+      "imdb": 8.8,
+      "rotten_tomatoes": 86
+    },
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+    "cast": [
+      {
+        "character": "Dom Cobb",
+        "actor": "Leonardo DiCaprio"
+      },
+      {
+        "character": "Arthur",
+        "actor": "Joseph Gordon-Levitt"
+      },
+      {
+        "character": "Ariadne",
+        "actor": "Elliot Page"
+      }
+    ]
+  },
+  "John Wick: Chapter 4": {
+    "release_date": "2023-03-24",
+    "country": "USA",
+    "studio": "Lionsgate",
+    "screenwriter": "Shay Hatten, Michael F. Stewart, Derek Kolstad",
+    "director": "Chad Stahelski",
+    "producer": "Basil Iwanyk, Chad Stahelski, Erica Lee",
+    "genre": ["Action", "Thriller", "Crime"],
+    "duration": "169 minutes",
+    "rating": {
+      "imdb": 7.9,
+      "kinopoisk": 8.1
+    },
+    "description": "After John Wick declares war on the High Table, he must face new enemies and old allies to survive.",
+    "cast": [
+      {
+        "character": "John Wick",
+        "actor": "Keanu Reeves"
+      },
+      {
+        "character": "Caine",
+        "actor": "Donnie Yen"
+      },
+      {
+        "character": "The Marquis",
+        "actor": "Bill Skarsgård"
+      }
+    ]
+  },
+  "The Matrix": {
+    "release_date": "1999-03-31",
+    "country": "USA",
+    "studio": "Warner Bros.",
+    "screenwriter": "Lana Wachowski, Lilly Wachowski",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "producer": "Joel Silver",
+    "genre": ["Action", "Science Fiction"],
+    "duration": "136 minutes",
+    "rating": {
+      "imdb": 8.7,
+      "rotten_tomatoes": 87
+    },
+    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "cast": [
+      {
+        "character": "Neo",
+        "actor": "Keanu Reeves"
+      },
+      {
+        "character": "Morpheus",
+        "actor": "Laurence Fishburne"
+      },
+      {
+        "character": "Trinity",
+        "actor": "Carrie-Anne Moss"
+      }
+    ]
+  },
+  "The Dark Knight": {
+    "release_date": "2008-07-18",
+    "country": "USA",
+    "studio": "Warner Bros.",
+    "screenwriter": "Jonathan Nolan, Christopher Nolan",
+    "director": "Christopher Nolan",
+    "producer": "Emma Thomas, Charles Roven",
+    "genre": ["Action", "Crime", "Drama"],
+    "duration": "152 minutes",
+    "rating": {
+      "imdb": 9.0,
+      "rotten_tomatoes": 94
+    },
+    "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+    "cast": [
+      {
+        "character": "Bruce Wayne / Batman",
+        "actor": "Christian Bale"
+      },
+      {
+        "character": "Joker",
+        "actor": "Heath Ledger"
+      },
+      {
+        "character": "Harvey Dent",
+        "actor": "Aaron Eckhart"
+      }
+    ]
+  },
+  "Pulp Fiction": {
+    "release_date": "1994-10-14",
+    "country": "USA",
+    "studio": "Miram ax",
+    "screenwriter": "Quentin Tarantino",
+    "director": "Quentin Tarantino",
+    "producer": "Lawrence Bender",
+    "genre": ["Crime", "Drama"],
+    "duration": "154 minutes",
+    "rating": {
+      "imdb": 8.9,
+      "rotten_tomatoes": 92
+    },
+    "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "cast": [
+      {
+        "character": "Vincent Vega",
+        "actor": "John Travolta"
+      },
+      {
+        "character": "Jules Winnfield",
+        "actor": "Samuel L. Jackson"
+      },
+      {
+        "character": "Mia Wallace",
+        "actor": "Uma Thurman"
+      }
+    ]
+  }
+}
